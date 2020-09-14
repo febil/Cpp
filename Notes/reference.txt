@@ -1,0 +1,7 @@
+Multithreading : https://www.devx.com/SpecialReports/Article/38883
+C++ 11 features : https://smartbear.com/blog/develop/the-biggest-changes-in-c11-and-why-you-should-care/
+https://smartbear.com/blog/test-and-monitor/c11-a-new-c-standard-aiming-at-safer-programming/
+https://smartbear.com/blog/develop/c11-tutorial-introducing-the-move-constructor-and/
+https://smartbear.com/blog/develop/c11-tutorial-lambda-expressions-the-nuts-and-bolts/#:~:text=C%2B%2B11%20Tutorial%3A%20Lambda,and%20Bolts%20of%20Functional%20Programming&text=One%20highlight%20of%20C%2B%2B,and%20secure%20than%20function%20objects.
+
+
